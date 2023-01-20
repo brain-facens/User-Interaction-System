@@ -1,0 +1,3 @@
+[submodule "see_how_pkg"]
+	path = see_how_pkg
+	url = https://github.com/nata-vito/see_how_pkg.git
