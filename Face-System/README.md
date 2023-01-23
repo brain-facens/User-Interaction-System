@@ -68,8 +68,5 @@ python start.py -db ../../Documents/database/ -smp ../../Documents/saved_models/
 
 ![image](https://user-images.githubusercontent.com/57902078/139664693-0ebe95d7-b8bf-4460-b6a3-fc525c33e233.png)
 
-### 3. Result :
-I changed the webcam feed to sample Image. While testing with my webcam directly I was still able to maintain high fps while consuming very little  memory
 
-![result](https://user-images.githubusercontent.com/57902078/139665886-504cea98-3b9d-4f16-88a7-5c30c50083bf.png)
 
